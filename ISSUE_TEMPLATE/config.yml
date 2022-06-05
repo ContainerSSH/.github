@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ContainerSSH Reference Manual
+    url: https://containerssh.io/reference/
+    about: Learn more about how to use ContainerSSH
+  - name: ContainerSSH Slack
+    url: https://join.slack.com/t/containerssh/shared_invite/zt-w2ulatkm-hjGHk8OaxQCBX79XKJHAQQ
+    about: Communicate with other community members
