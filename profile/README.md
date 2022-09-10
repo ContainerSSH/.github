@@ -15,7 +15,7 @@ There are several new features planned for the next releases. You can view them 
 ## Community
 For our general community-relevant files like licensing, code of conduct, and contribution guidelines, please check out the [community repository](https://github.com/ContainerSSH/community).
 
-We are currently in the process of creating a ContainerSSH Working Group. If you would like to be a member, join us on the [ContainerSSH Slack](https://join.slack.com/t/containerssh/shared_invite/zt-w2ulatkm-hjGHk8OaxQCBX79XKJHAQQ) and participate in shaping this project's future.
+Check out the [ContainerSSH Slack](https://join.slack.com/t/containerssh/shared_invite/zt-w2ulatkm-hjGHk8OaxQCBX79XKJHAQQ) and participate in shaping this project's future. You can also join us in the [Working Group](https://github.com/ContainerSSH/community/blob/main/CHARTER.md)!
 
 ## GitHub Structure
 
@@ -29,4 +29,4 @@ The [libcontainerssh](https://github.com/ContainerSSH/libcontainerssh) repositor
 
 ### Branding
 
-Our [branding repository](https://github.com/ContainerSSH/branding) contains all logos and additional imagery. While the code and accompanying documentation are free to use under the [MIT-0 license](https://github.com/ContainerSSH/community/blob/main/LICENSE.md), ContainerSSH' visual identity has its own [license](https://github.com/ContainerSSH/branding/blob/main/LICENSE.md).
+Our [branding repository](https://github.com/ContainerSSH/branding) contains all logos and additional imagery. While the code and accompanying documentation are free to use under the [Apache 2.0 license](https://github.com/ContainerSSH/community/blob/main/LICENSE.md), ContainerSSH' visual identity has its own [license](https://github.com/ContainerSSH/branding/blob/main/LICENSE.md).
